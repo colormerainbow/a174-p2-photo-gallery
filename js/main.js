@@ -98,14 +98,3 @@ function changeSlide(e) {
     advanceSlide(e.target.className);
 
 }
-
-
-
-/*bonus additional albums up to 10 images with separate controls to select different albums, use same show/hide featuer */
-/* leverage domloop exercise to create new albums that have carousel content */
-
-
-/*bonus add nav dots allowing for direct access to any slide */
-
-
-/*bonus consider making next and back buttons into arrows */
